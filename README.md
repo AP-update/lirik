@@ -12,7 +12,7 @@ Program sederhana Python untuk menampilkan lirik lagu
 1. **Pindahkan file `lirik.py` ke folder `lirik`**
    - Buka aplikasi *File Manager*
    - Cari file `lirik.py` yang sudah diunduh (biasanya ada di folder **Download**)
-   - Pindahkan file tersebut ke folder `lirik` yang ada di **Penyimpanan Internal**  buat terlebih dahaulu jika belum ada
+   - Pindahkan file tersebut ke folder `lirik` yang ada di **Penyimpanan Internal**  (buat terlebih dahaulu jika belum ada)
      Contoh tujuan:  
      ```
      /storage/emulated/0/lirik
