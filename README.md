@@ -5,7 +5,6 @@ Program sederhana Python untuk menampilkan lirik lagu
 ## Fitur
 
 - Menampilkan lirik dari lagu tertentu (ditambahkan manual di file lirik.py)
-- Input interaktif melalui terminal
 - Cocok dijalankan di Termux, Linux, atau terminal lainnya
 
 ## Cara Menyiapkan File (Jika File `lirik.py` Sudah Diunduh)
